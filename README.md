@@ -3,3 +3,5 @@ Trained a resnet152 model to classify flower species from the Oxford Flower Data
 Optimizer - Adam with Learning Rate 0.001  
 Scheduler - StepLR with Step size 10 and Gamma 0.1  
 Accuracy on Test Dataset - 97.8%  
+
+Checkpoint not uploaded due to file-size limits set by github.
