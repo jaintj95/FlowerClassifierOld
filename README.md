@@ -1,3 +1,5 @@
+# **Flower Classifier using PyTorch and Transfer Learning** 
+
 Trained a resnet152 model to classify flower species from the Oxford Flower Dataset  
 20 epochs with frozen pretrained layers,  40 epochs with all layers unfrozen  
 Optimizer - Adam with Learning Rate 0.001  
